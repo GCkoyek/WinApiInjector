@@ -14,6 +14,7 @@ WinApiInjector to program ktory nadpisuje manipuluje i zmienia pliki w czasie rz
 * C++
 * Windows API
 * Win32
+* ImGui
 
 
 ## Uruchamianie
